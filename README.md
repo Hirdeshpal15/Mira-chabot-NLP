@@ -42,9 +42,6 @@ cd Mira-chabot-NLP
 
 4. Copy the HTTPS ngrok URL and paste it into Dialogflow's Fulfillment Webhook
 
-![menu1](https://github.com/user-attachments/assets/7ac7a662-0f72-4509-96c9-2c45130e6a17)
-
-
 
 
 🔁 **Dialogflow Setup**
