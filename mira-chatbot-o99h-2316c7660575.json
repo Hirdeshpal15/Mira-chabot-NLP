@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "mira-chatbot-o99h",
+  "private_key_id": "2316c76605757bfab4ce005a480bc2a958671ac1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC477TI+NuSuxeK\nDUGk+BA1lnPrGA78B9l/lKVbkX3u/nzYs7VjQm3cdm6nOFlXmITmrsBBf/hPsR9c\ndTHc3vNKtR9MhMZfDPp1fBj5HeZTUceYcqqVW5gIyb4BApKclMIsUOA26RpiHKqB\npfiLpYngEgT/7xwUBhN17CTKOLgFC7UTqv5hW4SLPJ3p/u2ub5JIPhkBQnHrsujZ\nAe74Bqz0Y2kSigHXIPLkCVw64aEgYSPO2L3e5f6/NyrPzhsGSbwVOwOmeZmWAPda\n2g18DQvyHhZIkbsWPHjkxGo/Mi1qw3cwmxArSd+9Ds78PiVs5N1T0TL9yQRr5Doh\nVQDRaB81AgMBAAECggEAHx0lG1LTDkKv2SgVzT127K0dX4YyrzBa5V4K2/cEavsh\n4guKDuMUPK0oPLX8QgKFCZKJAfwXuMCh+Bo3g2N3JzCFzYfhIAi88psoUHE5WPc/\nT2SrUmmQkJnwf5cBN5rHeFE7B8H8EFmmTh2wTT5SjgI6GR0PakcDaymJnwQf4akn\nWOfMyZexOuEpYV6LalhULvJ7ytqMUXcrrcpzfL4Skom5DFOquYLHMoaIikiWmaI7\nLcwNOmEcmGMipx0hqx1yA5IV1u8hKGWrEsvX93ycABzRcZHGLwu1160SgCwpSEBA\nnzm+qcijopeK7TAUMZcGRW+WSvkxZ0WJDLPD0BpO2QKBgQDeHQ5F7EXKL5Wq3M8A\n5XA7ZQPxlL1/JqFv7gy/OhVq0gU4fhw6DogMtNT6zCfJ3vO0XvcsYYmawDHaqz08\naIRKE6Z5tcOeZnqgvKM/YXbm2TM+DwU9BtjoDjYvS3A+uI1L+JlzybhV03YpwQHO\nIuJLns4sBnZPvytPF/dKneSrNwKBgQDVJqWBBvmFu6wNItP2y2sC8txKT//5yAFs\n6kIZy+4GFCbZGALQiFeAUhWFxdAn6MMu5AjgJEoSg15mJcc6Rk6XFa9Ax8dMsPfi\ny+6Ucj5kso3YH3hYVdWXWnVKSyJYd5L5ODreYJAovYxCHuL3dBlTbRYSeBnn+bDg\nlUIGKqQ28wKBgFrgTHyzZQKKYZQc790QAtFqTSjEkJu7dIXVQgXjf+vKrjQk9OuU\nEnoQaquKaCUiQVflGwBfj+tvA3bSZSWYJbghPhXCFp1ylG27gJdoCzv8VgjoIF6N\ntKWNWwISvYQMAlO5DR/gwrjq4gfHXjO29hu2h+hfZHzQXKnpxlYTMAIVAoGBAJSi\nMl7bAjyjNcKjOrOp/aE8wSiAyLrhIT1VzWo3rm9GtiBEghHwQTQWCTQTUKfDw/d6\nxEWoiI6IVNdeGKMmS79HO8IsjWmJLhJUqrWRRLjrWcYPi9ftYtf8GDYKVpTiLPbk\nowhWxa/jHV8uMo7jwpVOSEnwvf/pOdIhwrySF5jJAoGBAJul93IB0aJE40U5+OnP\nKsdiDCe+heEJXbENc3D4o7P85GENb4yDodpu+upOXAx71tSxCEcYgicSLcjmTMWC\nUPh9CL5HWd2OyWHm5pkGQ0V55LDY3lebHeMomLLxYdyP70tN3Q2MiwAmdM5E+qSY\ndXQAZFxV9TpvwOzrFJAjb4tU\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-access@mira-chatbot-o99h.iam.gserviceaccount.com",
+  "client_id": "102042651312217328086",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-access%40mira-chatbot-o99h.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
