@@ -67,9 +67,6 @@ cd Mira-chabot-NLP
 
 
 
-
-
-
 📂 **Project Structure**
 
 ├── main.py               # FastAPI app with route and intent handlers
