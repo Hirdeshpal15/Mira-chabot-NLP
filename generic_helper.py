@@ -19,5 +19,5 @@ def extract_session_id(session_str: str):
 
     match = re.search(r"/sessions/([^/]+)/", session_str)
     if match:
-        return match.group(1)  # ✅ Only the session ID
+        return match.group(1)  # Only the session ID
     return ""
