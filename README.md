@@ -24,9 +24,9 @@ A smart, conversational food ordering chatbot built using **Dialogflow** and **F
 
 ---
 
-## 📦 Installation & Running Locally
+## 📦 Installation & Running Locally 
 
-1. **Clone the repository**
+**Clone the repository**
 
 ```bash
 git clone https://github.com/Hirdeshpal15/Mira-chabot-NLP.git
